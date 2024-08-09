@@ -1,4 +1,4 @@
-Just a simple calculator
+Just a simple calculator, made with next14 and tailwindcss, using vitest for testing.
 
 ## Getting Started
 
